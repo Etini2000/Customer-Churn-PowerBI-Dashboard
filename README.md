@@ -1,1 +1,1 @@
-# Customer-Retention-PowerBI-Dashboard
+# Customer-Churn-PowerBI-Dashboard
